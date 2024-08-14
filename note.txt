@@ -1,0 +1,6 @@
+-(https://github.com/abdullahtarek/football_analysis)
+-(https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data?select=clips)
+-(https://medium.com/@pedroazevedo6/object-detection-state-of-the-art-2022-ad750e0f6003)
+-(https://github.com/ultralytics/ultralytics)
+-(pip install ultralytics)
+-(https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1)
